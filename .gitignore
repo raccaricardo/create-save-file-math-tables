@@ -1,0 +1,6 @@
+
+# dependencies
+/backend/node_modules/
+
+# production
+backend/outputs/*.txt*/
