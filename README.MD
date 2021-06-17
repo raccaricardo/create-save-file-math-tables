@@ -1,6 +1,6 @@
 #NOTAS
 
-Este es mi primer app en node node
+Este es mi primer app en node.js
 ```
 Opciones:
       --help     Muestra ayuda                                        [booleano]        
